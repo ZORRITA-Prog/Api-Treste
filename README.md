@@ -13,6 +13,6 @@ Hola soy CUervita y cree un no se apis
 <details>
   <summary>Instalacion</summary>
 
-[Api Treste V2](https://rezemd56-hash.github.io/Api-Treste-V2/)
+[Api Treste V2](https://zorrita-prog.github.io/Api-Treste/)
   
 </details>
